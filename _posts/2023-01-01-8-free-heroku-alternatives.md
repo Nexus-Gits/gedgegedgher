@@ -12,7 +12,7 @@ image:
 Heroku is best SaaS cloud platforms with a free hosting service. Heroku runs on fast Linux sub-containers called "dynos".
 
 The Free plan gave generous 550-1,000 dyno hours per month. Which contained 512Mb ram, 2 simultaneous processes, deployment with git and docker, custom domains, automatic OS patching, etc. 
-{% include_relative patterns/adsense.html %}
+{% include_relative posts/adsense.html %}
 But, as you know every free thing does not last forever. So some days ago [Heroku announced](https://blog.heroku.com/next-chapter) that they would shut down the free service on November 28th, 2022. That's why we make a sophisticated list of free Heroku alternatives. Which gave every user what they need at absolutely free of cost.
 
 ## **Vercel**
