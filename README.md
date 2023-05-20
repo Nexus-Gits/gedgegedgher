@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Tecroxy Jekyll Themes
+  # Tecroxy Jekyll Theme
 
   A minimal, responsive, fast, and powerful Jekyll theme for presenting professional writing.
 
