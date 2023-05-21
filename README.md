@@ -2,7 +2,7 @@
 
   # Tecroxy Jekyll Themes
 
-  A minimal, responsive, fast, and powerful Jekyll theme for presenting professional writing.
+  A minimal, responsive, fast, and powerful Jekyll theme for presenting professional writings.
 
   [**Live Demo →**](https://tecroxy.com/)
 
