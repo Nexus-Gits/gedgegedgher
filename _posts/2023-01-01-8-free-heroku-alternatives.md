@@ -2,6 +2,7 @@
 title: 8 Free Heroku Alternatives
 author: surajit
 date: 2023-01-08 11:33:00 +0800
+lastmod_date: 2023-02-08 11:33:00 +0800
 categories: [Hosting, Software]
 tags: [Alternatives]
 image:
