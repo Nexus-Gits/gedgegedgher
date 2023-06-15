@@ -1,3 +1,10 @@
+---
+# the default layout is 'page'
+icon: fas fa-building-shield
+order: 7
+image: /assets/img/favicons/Privacy Policy Tecroxy Opengraph.webp
+---
+
 <!DOCTYPE HTML>
 		<html>
 	<head><link rel="dns-prefetch" href="https://code.jquery.com/" ><link rel="dns-prefetch" href="https://cdn.mysitemapgenerator.com/" >
