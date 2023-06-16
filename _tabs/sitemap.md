@@ -5,9 +5,7 @@ order: 7
 image: /assets/img/favicons/Privacy Policy Tecroxy Opengraph.webp
 ---
 
-<!DOCTYPE HTML>
-
-<li><a href="#" onclick="return false">Categories</a><ul>
+<li><a href="https://gedgegedgher.pages.dev/categories/" onclick="return false">Categories</a><ul>
 <li><a href="https://tecroxy.com/categories/18/">18+ | Tecroxy</a></li>
 <li><a href="https://tecroxy.com/categories/ai/">AI | Tecroxy</a></li>
 <li><a href="https://tecroxy.com/categories/how-to/">How To | Tecroxy</a></li>
@@ -16,10 +14,7 @@ image: /assets/img/favicons/Privacy Policy Tecroxy Opengraph.webp
 <li class="collapsed_item"><a href="https://tecroxy.com/categories/digital/">Digital | Tecroxy</a></li>
 <li class="collapsed_item"><a href="https://tecroxy.com/categories/hosting/">Hosting | Tecroxy</a></li>
 <li class="collapsed_item"><a href="https://tecroxy.com/categories/gaming/">Gaming | Tecroxy</a></li>
-<li class="expand_items"><a href="#"> &#x25BC; </a></li>
-</ul>
-</li>
-<li><a href="#" onclick="return false">Tags</a><ul>
+
 <li><a href="https://tecroxy.com/tags/websites/">Websites | Tecroxy</a></li>
 <li><a href="https://tecroxy.com/tags/alternatives/">Alternatives | Tecroxy</a></li>
 <li><a href="https://tecroxy.com/tags/anime/">Anime | Tecroxy</a></li>
@@ -35,7 +30,6 @@ image: /assets/img/favicons/Privacy Policy Tecroxy Opengraph.webp
 <li class="collapsed_item"><a href="https://tecroxy.com/tags/kodi/">Kodi | Tecroxy</a></li>
 <li class="collapsed_item"><a href="https://tecroxy.com/tags/saas/">SaaS | Tecroxy</a></li>
 <li class="collapsed_item"><a href="https://tecroxy.com/tags/windows/">Windows | Tecroxy</a></li>
-<li class="expand_items"><a href="#"> &#x25BC; </a></li>
 </ul>
 </li>
 <li><a href="https://tecroxy.com/archives">Archives | Tecroxy</a></li>
@@ -128,7 +122,3 @@ image: /assets/img/favicons/Privacy Policy Tecroxy Opengraph.webp
 <li><a href="https://tecroxy.com/ai-art-generators">10 Best Ai Art Generators Online | Tecroxy</a></li>
 <li><a href="https://tecroxy.com/ad-block-chrome-extensions">Best Ad Blocker Chrome Extensions | Tecroxy</a></li>
 <li><a href="https://tecroxy.com/8-free-heroku-alternatives">8 Free Heroku Alternatives | Tecroxy</a></li>
-</ul>
-</nav>
-
-</html>
