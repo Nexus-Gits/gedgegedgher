@@ -118,7 +118,6 @@ pwa:
 
 paginate: 1
 paginate_path: "/page/:num"
-sitemap: false
 
 # ------------ The following options are not recommended to be modified ------------------
 
