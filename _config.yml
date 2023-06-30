@@ -117,7 +117,13 @@ pwa:
   enabled: true # the option for PWA feature
 
 paginate: 1
-paginate_path: "/page/:num/"
+paginate_path: "/page/:num"
+defaults:
+  -
+    scope:
+      path: "page"
+    values:
+      sitemap: false
 
 # ------------ The following options are not recommended to be modified ------------------
 
