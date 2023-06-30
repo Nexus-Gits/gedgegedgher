@@ -118,10 +118,6 @@ pwa:
 
 paginate: 1
 paginate_path: "/page/:num"
-defaults:
-  -
-    scope:
-      path: "/page/*"
     values:
       sitemap: false
 
